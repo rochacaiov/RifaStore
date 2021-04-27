@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RifaStore</string>
+    <string name="signIn_register">Não possui uma conta? Registre-se!</string>
+</resources>

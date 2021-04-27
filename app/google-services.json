@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673173948928",
+    "project_id": "rifastore-86819",
+    "storage_bucket": "rifastore-86819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673173948928:android:cb9142e3acbbd88bda26e5",
+        "android_client_info": {
+          "package_name": "io.codigorocha.rifastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673173948928-4a0etu43ou2oiv6sm7cfjj5e45conv61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXmwYF21-yqIe_lYMu_XGnpQOZLHo4Dss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673173948928-4a0etu43ou2oiv6sm7cfjj5e45conv61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
